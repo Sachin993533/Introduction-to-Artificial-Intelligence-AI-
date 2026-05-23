@@ -1,0 +1,2 @@
+# Introduction-to-Artificial-Intelligence-AI-
+Successfully completed the “Introduction to Artificial Intelligence (AI)” certification by IBM on Coursera. Gained foundational knowledge of AI concepts, machine learning,neural networks, and real-world AI applications. Learned how AI is transforming industries while developing skills in problem-solving,data-driven thinking &amp; emerging technologies.
